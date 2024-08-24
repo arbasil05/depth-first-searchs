@@ -116,8 +116,7 @@ F H <BR>
 
 <hr>
 <h3>Result:</h3>
-<img src="https://raw.githubusercontent.com/user/repository/branch/path/to/image.png" alt="DFS Result">
-
+['A', 'B', 'C', 'E', 'D', 'G', 'F']
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
