@@ -116,7 +116,7 @@ F H <BR>
 
 <hr>
 <h3>Result:</h3>
-![image](https://github.com/user-attachments/assets/8705c034-e257-4074-ae8a-f0d7c55c503f)
+<img src="https://raw.githubusercontent.com/user/repository/branch/path/to/image.png" alt="DFS Result">
 
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
